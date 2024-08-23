@@ -11,7 +11,9 @@ Compile and run the CurrencyConvertorTestConsole class for the console version o
 
 **Usage Guide:**
 
-to convert currenies you need to use the convert screen. to use the profiles feature, the user must create an account first then the user can save their frequently used currency pairs, conversion history and preffered settings. this information will be presented on the profile screen. 
+Firstly the user must create an account by using the Register command, then the user can Login to their account.
+After logging in, users can choose between console-based and GUI-based currency conversion.
+Both modes allow users to convert currencies, save conversion history, and add favorite pairs.
 
 
 **Skills Applied:**
