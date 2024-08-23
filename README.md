@@ -6,7 +6,8 @@ For this project, I am enhancing/expanding upon a currency converter application
 
 **How to run the Application:**
 
-To run this application, you have to open the program on an SDK, preferrably using Netbeans SDK. open the project and run the program. 
+To run this application, Replace the API key in API_ENDPOINT.
+Compile and run the CurrencyConvertorTestConsole class for the console version or CurrencyConvertorTest class for the GUI version.
 
 **Usage Guide:**
 
